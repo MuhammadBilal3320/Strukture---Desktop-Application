@@ -2,14 +2,12 @@
 
 **Strukture** is a desktop developer productivity tool built to **analyze, collect, generate, clean, and reconstruct codebases and folder structures** with speed and accuracy. It is designed for modern workflows involving **AI-assisted development, project sharing, refactoring, and rapid reconstruction** from text-based inputs.
 
----
 
 ## 🚀 What is Strukture?
 
 Strukture helps developers turn complex projects into **portable, editable text formats** and back again—without losing structure.  
 Whether you're sharing code with AI, documenting a project, rebuilding a structure, or cleaning source files, Strukture streamlines the entire process.
 
----
 
 ## ✨ Core Features
 
@@ -24,7 +22,6 @@ Whether you're sharing code with AI, documenting a project, rebuilding a structu
 **Use case:**  
 Share entire or partial codebases with AI tools or teammates in one clean format.
 
----
 
 ### 🧱 Folder Structure Generator
 - Scan folders interactively or recursively
@@ -38,8 +35,6 @@ Share entire or partial codebases with AI tools or teammates in one clean format
 **Use case:**  
 Create accurate project structures for documentation, AI prompts, or rebuilding later.
 
----
-
 ### 🔄 Structure Creator
 - Paste a folder tree structure as plain text
 - Live preview of detected files and folders
@@ -52,7 +47,6 @@ Create accurate project structures for documentation, AI prompts, or rebuilding 
 **Use case:**  
 Rebuild an entire project structure from a text description or AI-generated output.
 
----
 
 ### 🧹 Comment Remover
 - Removes comments without breaking code
@@ -66,7 +60,6 @@ Rebuild an entire project structure from a text description or AI-generated outp
 **Use case:**  
 Prepare clean code for production, analysis, or AI input.
 
----
 
 ### 📊 Project Analyzer
 - Instantly analyzes project statistics
@@ -85,7 +78,6 @@ Prepare clean code for production, analysis, or AI input.
 **Use case:**  
 Understand project complexity and composition at a glance.
 
----
 
 ## 🧠 Recommended Workflow
 
@@ -97,8 +89,6 @@ Understand project complexity and composition at a glance.
 6. Share or modify the output (AI / team)
 7. Rebuild the full project using Structure Creator
 
----
-
 ## 🛠 Supported File Types
 
 - JavaScript (`.js`, `.jsx`)
@@ -109,7 +99,6 @@ Understand project complexity and composition at a glance.
 - Markdown / Text
 - Any text-based source files
 
----
 
 ## 🖥 Tech Stack
 
@@ -119,7 +108,6 @@ Understand project complexity and composition at a glance.
 - Tailwind-based Dark UI
 - Native OS & Clipboard integration
 
----
 
 ## ⚠️ Notes & Limitations
 
