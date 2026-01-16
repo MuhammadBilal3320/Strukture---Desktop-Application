@@ -1,0 +1,44 @@
+@import "tailwindcss";
+@import './base.css';
+
+
+/* full center perfect center  */
+.perfectCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-click:active {
+  scale: 0.94;
+  transition-duration: 0.5s;
+}
+
+/* Custom Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #14151c;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #50c878;
+  border-radius: 10px;
+  border: 2px solid #14151c;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #449c62;
+}
+
+/* Firefox support */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #50c878 #14151c;
+}
+
+
